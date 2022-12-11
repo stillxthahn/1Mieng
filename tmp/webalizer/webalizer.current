@@ -1,0 +1,1365 @@
+# Webalizer V2.23-08 Incremental Data - 12/05/2022 08:52:49
+2022 12 5 8 52 49
+17836 17355 113 333 51 48 114935723 442 139 0
+16 451 8210 1 5
+6737 6565 42560010 33 173 41
+1721 1688 7743927 20 31 16
+370 262 10845385 39 81 33
+142 99 5793385 41 45 38
+8866 8741 47993016 16 112 11
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+20 12 110634 12
+60 50 2114447 16
+865 860 2331399 12
+26 22 1749378 6
+43 41 3436346 5
+8222 8216 31558429 8
+40 32 1869014 9
+593 516 13942840 88
+454 356 8568286 80
+5018 4979 24831794 26
+93 67 146040 24
+29 22 137855 8
+15 5 95536 6
+309 278 5874711 23
+98 64 3459293 27
+8 7 127597 3
+23 20 1704733 2
+0 0 0 0
+12 6 249440 8
+13 6 95160 7
+1740 1711 8568542 25
+120 71 3751696 32
+25 9 155476 10
+10 5 57077 5
+0
+0
+0
+17355
+1
+0
+0
+0
+0
+0
+0
+148
+38
+0
+150
+0
+0
+0
+0
+0
+1
+143
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-content/themes/twentytwentytwo/screenshot.png
+0 3 17179869184 486870 0 0
+/wp-admin/options-permalink.php
+0 1 7566638 10899 0 0
+/wp-content/themes/popularfx/js/customizer-controls.js
+0 3 4123045458857689088 7656 0 0
+/wp-json/wp/v2/users/me
+0 3 3473737861662125618 2120 0 0
+/wp-includes/js/dist/vendor/wp-polyfill.min.js
+0 4 0 25340 0 0
+/wp-content/plugins/backuply/assets/images/aws.svg
+0 1 0 1632 0 0
+/wp-includes/js/dist/style-engine.min.js
+0 3 0 4368 0 0
+/wp-includes/js/clipboard.min.js
+0 4 0 11956 0 0
+/wp-includes/js/dist/date.min.js
+0 4 0 147008 0 0
+/wp-admin/js/dashboard.min.js
+0 4 0 11340 0 0
+/wp-admin/themes.php
+0 6 0 97907 0 0
+/wp-admin/js/widgets/media-gallery-widget.min.js
+0 3 0 3342 0 0
+/wp-admin/js/common.min.js
+0 2 0 12512 0 0
+/wp-content/plugins/pagelayer/fonts/font-awesome5.json
+0 1 0 6923 0 0
+/wp-admin/js/editor-expand.min.js
+0 4 0 17388 0 0
+/wp-admin/update-core.php
+0 1 0 12809 0 0
+/wp-includes/js/codemirror/codemirror.min.css
+0 3 0 12045 0 0
+/wp-admin/css/l10n.min.css
+0 3 0 1788 0 0
+/blog/
+0 3 0 35079 0 0
+/wp-includes/js/dist/block-directory.min.js
+0 3 0 20154 0 0
+/wp-includes/js/customize-preview-nav-menus.min.js
+0 2 0 3252 0 0
+/wp-content/plugins/pagelayer/images/facebook.png
+0 2 0 2608 0 0
+/wp-includes/js/codemirror/htmlhint.js
+0 3 0 16392 0 0
+/wp-admin/options-reading.php
+0 1 0 9899 0 0
+/wp-includes/js/customize-preview.min.js
+0 2 0 5734 0 0
+/.well-known/pki-validation/BA51849E782BE7468AA581C81C7E1CB6.txt
+0 1 0 64 0 0
+/wp-includes/js/thickbox/thickbox.js
+0 3 0 11973 0 0
+/wp-admin/options-privacy.php
+0 1 0 10031 0 0
+/wp-json/wp/v2/users/
+0 6 0 3286 0 0
+/wp-includes/css/buttons.min.css
+0 3 0 3765 0 0
+/wp-includes/css/classic-themes.min.css
+0 12 0 1760 0 0
+/2022/11/30/hello-world/
+0 2 0 151834 0 0
+/wp-includes/js/customize-models.js
+0 3 0 5400 0 0
+/wp-content/themes/popularfx/js/customizer.js
+0 2 0 1440 0 0
+/wp-admin/js/editor.min.js
+0 3 0 13518 0 0
+/wp-includes/js/jquery/ui/slider.min.js
+0 3 0 8943 0 0
+/wp-admin/js/tags-box.min.js
+0 4 0 4744 0 0
+/wp-includes/css/customize-preview.min.css
+0 2 0 1494 0 0
+/wp-includes/js/dist/media-utils.min.js
+0 3 0 8286 0 0
+/wp-includes/js/tinymce/wp-tinymce.js
+0 4 0 848868 0 0
+/wp-includes/js/dist/notices.min.js
+0 3 0 2688 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 3 0 2472 0 0
+/wp-includes/js/shortcode.min.js
+0 4 0 4312 0 0
+/wp-includes/js/wp-lists.min.js
+0 4 0 9448 0 0
+/wp-includes/js/dist/viewport.min.js
+0 3 0 3072 0 0
+/wp-admin/images/arrows-2x.png
+0 1 0 863 0 0
+/wp-includes/js/jquery/jquery.query.js
+0 4 0 6136 0 0
+/wp-includes/js/dist/api-fetch.min.js
+0 3 0 6441 0 0
+/wp-content/plugins/pagelayer/css/customizer.css
+0 3 0 10698 0 0
+/wp-admin/load-scripts.php
+0 22 0 869972 0 0
+/wp-admin/about.php
+0 7 0 105872 0 0
+/wp-admin/images/spinner.gif
+0 1 0 3656 0 0
+/wp-includes/js/jquery/ui/sortable.min.js
+0 4 0 25312 0 0
+/wp-json/wp/v2/users
+0 1 0 252 0 0
+/wp-includes/images/spinner-2x.gif
+0 1 34521360 7536 0 0
+/wp-content/plugins/pagelayer/js/pagelayer-admin.js
+0 2 0 1092 0 0
+/wp-admin/js/accordion.min.js
+0 3 0 1029 0 0
+/wp-includes/js/dist/i18n.min.js
+0 3 0 11151 0 0
+/wp-content/plugins/backuply/assets/images/local.svg
+0 1 0 1647 0 0
+/wp-admin/plugins.php
+0 2 0 33953 0 0
+/wp-admin/js/plugin-install.min.js
+0 4 0 3592 0 0
+/wp-content/plugins/backuply/assets/images/dropbox.svg
+0 1 0 256 0 0
+/.well-known/pki-validation/C3E6B5D26A9ABBDE8F6EC4F65DD74559.txt
+0 1 0 64 0 0
+/wp-admin/js/post.min.js
+0 4 0 23748 0 0
+/wp-includes/js/customize-preview-widgets.min.js
+0 2 7146703754555371570 4862 0 0
+/wp-admin/post.php
+0 20 470020206195 856694 0 0
+/author/admin/
+0 1 3273100299173389683 12171 0 0
+/wp-content/uploads/2022/12/anhthe-1.jpg
+0 2 34551728 64376 0 0
+/wp-json/wp/v2/block-renderer/core/latest-comments
+0 1 3543600032671362415 217 0 0
+/wp-admin/js/widgets/media-audio-widget.min.js
+0 3 3329622685545136128 1830 0 0
+/wp-includes/js/underscore.min.js
+0 4 0 28716 0 0
+/wp-admin/css/forms.min.css
+0 4 0 24144 0 0
+/wp-admin/js/widgets/media-image-widget.min.js
+0 3 0 2286 0 0
+/wp-includes/js/dist/wordcount.min.js
+0 3 0 2934 0 0
+/wp-content/uploads/2022/11/counter-bg-300x200.jpg
+0 1 34572208 23471 0 0
+/wp-includes/js/dist/blocks.min.js
+0 3 0 146226 0 0
+/wp-includes/wlwmanifest.xml
+0 5 0 5225 0 0
+/wp-includes/js/tinymce/skins/wordpress/wp-content.css
+0 3 0 7176 0 0
+/wp-includes/css/editor.min.css
+0 3 0 16932 0 0
+/wp-includes/js/jquery/ui/dialog.min.js
+0 1 0 3618 0 0
+/wp-content/uploads/2022/12/IMG_8040-200x300.jpg
+0 1 34542624 6975 0 0
+/wp-content/uploads/2022/11/testimonial1-150x150.jpg
+0 1 34571920 4609 0 0
+/wp-content/uploads/2022/12/Anh-the-20-21.jpg
+0 2 34572496 159942 0 0
+/wp-content/plugins/pagelayer/images/wpcentral_product.png
+0 2 0 19102 0 0
+/wp-content/plugins/popularfx-templates/images/popularfx-logo-menu.png
+0 3 0 2481 0 0
+/contact/
+0 1 0 11506 0 0
+/wp-admin/
+0 8 0 163958 2 0
+/wp-includes/js/wp-auth-check.min.js
+0 2 0 1382 0 0
+/service/
+0 2 0 31294 0 0
+/wp-content/plugins/backuply/assets/images/softftpes.svg
+0 1 0 1046 0 0
+/.well-known/pki-validation/2435D801D888AAB37250F83FB1554E97.txt
+0 1 0 64 0 0
+/wp-includes/js/dist/priority-queue.min.js
+0 3 0 4524 0 0
+/wp-includes/js/plupload/plupload.min.js
+0 2 0 10746 0 0
+/wp-admin/load-styles.php
+0 20 0 2026526 0 0
+/wp-admin/js/word-count.min.js
+0 4 0 2528 0 0
+/wp-includes/js/dist/vendor/moment.min.js
+0 4 0 72764 0 0
+/wp-includes/js/jquery/ui/button.min.js
+0 1 0 1814 0 0
+/wp-includes/js/heartbeat.min.js
+0 3 0 5790 0 0
+/wp-admin/users.php
+0 4 0 44600 0 0
+/wp-content/plugins/backuply/assets/js/jstree.min.js
+0 1 0 27674 0 0
+/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+0 4 0 145732 0 0
+/wp-includes/js/dist/a11y.min.js
+0 4 0 3432 0 0
+/wp-includes/js/zxcvbn.min.js
+0 4 0 1557972 0 0
+/wp-includes/js/dist/preferences-persistence.min.js
+0 3 0 6411 0 0
+/wp-content/themes/popularfx/customizer.css
+0 3 0 4146 0 0
+/wp-content/plugins/backuply/assets/css/base-jquery-ui.css
+0 1 0 38779 0 0
+/wp-content/plugins/pagelayer/images/no_screenshot.png
+0 3 0 29937 0 0
+/wp-includes/js/codemirror/codemirror.min.js
+0 3 0 526365 0 0
+/wp-content/plugins/backuply/assets/js/backuply.js
+0 1 0 9048 0 0
+/wp-json/wp/v2/media
+0 1 0 1971 0 0
+/wp-content/plugins/popularfx-templates/images/wpcentral_product.png
+0 2 0 19102 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 7 0 1505 0 0
+/wp-includes/css/admin-bar.min.css
+0 4 0 14544 0 0
+/wp-content/themes/popularfx/sidebar.css
+0 12 0 23729 0 0
+/wp-includes/js/media-audiovideo.min.js
+0 4 0 12528 0 0
+/wp-includes/js/wp-ajax-response.min.js
+0 3 0 2916 0 0
+/wp-admin/admin.php
+0 14 0 241481 0 0
+/wp-content/plugins/backuply/assets/images/softsftp.svg
+0 1 0 1049 0 0
+/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+0 3 0 24330 0 0
+/wp-admin/js/theme-plugin-editor.min.js
+0 1 0 3483 0 0
+/wp-includes/js/jquery/ui/droppable.min.js
+0 3 0 5694 0 0
+/wp-content/uploads/2022/11/testimonial1.jpg
+0 11 0 135421 0 0
+/wp-admin/js/theme.min.js
+0 3 0 21081 0 0
+/wp-content/plugins/pagelayer/images/pagelayer-logo-19.png
+0 3 0 4536 0 0
+/wp-content/uploads/2022/11/home-img1.jpg
+0 12 0 3172212 0 0
+/wp-includes/js/dist/edit-post.min.js
+0 3 0 87993 0 0
+/wp-admin/plugin-editor.php
+0 1 0 14308 0 0
+/.well-known/pki-validation/FF0AF377F1977177ABD2A2F121A5C338.txt
+0 1 1 64 0 0
+/wp-admin/js/customize-nav-menus.min.js
+0 3 0 33228 0 0
+/wp-content/plugins/backuply/assets/images/loginizer_product.png
+0 1 0 6744 0 0
+/wp-json/wp/v2/types
+0 1 0 555 0 0
+/wp-includes/js/hoverIntent.min.js
+0 3 0 2004 0 0
+/.well-known/pki-validation/9043EECCABD541970DC1429B4F038243.txt
+0 1 0 64 0 0
+/wp-includes/js/dist/format-library.min.js
+0 3 0 19416 0 0
+/wp-content/plugins/pagelayer/css/pagelayer-admin.css
+0 2 0 2650 0 0
+/wp-includes/js/jquery/ui/controlgroup.min.js
+0 1 0 1445 0 0
+/wp-content/plugins/backuply/assets/images/cloudflare.svg
+0 1 0 487 0 0
+/wp-content/plugins/pagelayer/js/customizer.js
+0 3 0 24555 0 0
+/wp-includes/js/dist/vendor/lodash.min.js
+0 3 0 72396 0 0
+/wp-content/plugins/popularfx-templates/images/twitter.png
+0 2 0 2652 0 0
+/wp-admin/edit.php
+0 22 0 316527 0 0
+/wp-admin/options-writing.php
+0 1 0 9801 0 0
+/wp-includes/js/jquery/ui/draggable.min.js
+0 3 0 13950 0 0
+/wp-includes/js/customize-views.js
+0 3 0 3930 0 0
+/wp-includes/js/jquery/ui/mouse.min.js
+0 4 0 4004 0 0
+/wp-content/plugins/pagelayer/images/pagelayer-logo-256.png
+0 6 0 41124 0 0
+/wp-includes/js/dist/components.min.js
+0 3 0 579297 0 0
+/wp-admin/js/widgets/custom-html-widgets.min.js
+0 3 0 5274 0 0
+/wp-includes/js/wp-sanitize.min.js
+0 3 0 708 0 0
+/wp-includes/js/media-editor.min.js
+0 4 12 13832 0 0
+/wp-json/wp/v2/media/30
+0 1 0 786 0 0
+/wp-content/plugins/backuply/assets/images/onedrive.svg
+0 1 0 565 0 0
+/wp-includes/css/dashicons.min.css
+0 6 0 210660 0 0
+/wp-includes/js/customize-base.min.js
+0 3 0 7149 0 0
+/wp-admin/js/inline-edit-post.min.js
+0 4 0 11004 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.css
+0 7 0 6874 0 0
+/wp-content/plugins/pagelayer/images/drag-ghost.png
+0 3 0 6771 0 0
+/wp-content/uploads/2022/12/1-mieng-300x300.png
+0 1 34537888 8076 0 0
+/wp-includes/js/mediaelement/mediaelement-migrate.min.js
+0 4 0 1916 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 16 0 61136 0 0
+/wp-includes/js/zxcvbn-async.min.js
+0 3 0 561 0 0
+/wp-content/plugins/pagelayer/images/pagelayer_product.png
+0 2 0 6712 0 0
+/wp-content/plugins/pagelayer/css/givecss.php
+0 122 0 651260 0 0
+/wp-content/uploads/2022/11/home-img1-240x300.jpg
+0 1 34487376 28767 0 0
+/wp-content/plugins/pagelayer/fonts/fa-regular-400.woff2
+0 3 0 39672 0 0
+/wp-includes/js/dist/vendor/react.min.js
+0 3 0 12855 0 0
+/wp-includes/js/dist/token-list.min.js
+0 3 0 1728 0 0
+/wp-content/plugins/backuply/assets/css/jstree.css
+0 1 0 3553 0 0
+/wp-admin/post-new.php
+0 3 0 121251 0 0
+/wp-includes/js/jquery/ui/core.min.js
+0 2 0 13600 0 0
+/wp-includes/js/dist/editor.min.js
+0 3 0 119562 0 0
+/wp-content/uploads/2022/12/20221027_181136-213x300.jpg
+0 1 34521248 10128 0 0
+/wp-includes/js/dist/block-serialization-default-parser.min.js
+0 3 0 3141 0 0
+/wp-includes/js/dist/redux-routine.min.js
+0 3 0 8265 0 0
+/wp-admin/tools.php
+0 1 0 9344 0 0
+/wp-includes/js/jquery/ui/resizable.min.js
+0 1 0 5119 0 0
+/wp-includes/js/wp-util.min.js
+0 4 0 2760 0 0
+/.well-known/pki-validation/6EFEAFED9E31EA19B252710D15C3CE82.txt
+0 1 0 64 0 0
+/wp-includes/js/mediaelement/wp-playlist.min.js
+0 2 0 2022 0 0
+/wp-content/themes/popularfx/js/navigation.js
+0 15 0 22484 0 0
+/wp-includes/js/dist/vendor/react-dom.min.js
+0 3 0 111183 0 0
+/wp-content/uploads/2022/11/testimonial2-150x150.jpg
+0 1 34520912 5032 0 0
+/wp-includes/js/dist/html-entities.min.js
+0 3 0 1182 0 0
+/wp-includes/js/jquery/suggest.min.js
+0 4 0 4808 0 0
+/wp-includes/js/media-models.min.js
+0 4 0 16024 0 0
+/wp-admin/js/updates.min.js
+0 4 0 34780 0 0
+/wp-login.php
+0 8191 0 56106949 0 0
+/wp-includes/js/dist/hooks.min.js
+0 4 0 6300 0 0
+/wp-json/wp/v2/posts
+0 1 0 736 0 0
+/wp-includes/js/dist/keycodes.min.js
+0 3 0 5070 0 0
+/wp-admin/css/login.min.css
+0 4 0 7788 0 0
+/wp-admin/js/site-health.min.js
+0 4 0 7928 0 0
+/wp-admin/js/edit-comments.min.js
+0 4 0 19468 0 0
+/wp-includes/js/backbone.min.js
+0 4 0 30764 0 0
+/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
+0 3 0 10701 0 0
+/wp-content/uploads/2022/11/testimonial3.jpg
+0 11 0 123794 0 0
+/wp-content/uploads/2022/11/header-bg.jpg
+0 11 0 5198677 0 0
+/wp-admin/js/widgets/media-widgets.min.js
+0 3 0 13104 0 0
+/wp-admin/user-edit.php
+0 1 0 14534 0 0
+/wp-includes/js/dist/plugins.min.js
+0 3 0 5604 0 0
+/wp-content/plugins/pagelayer/images/pagelayer-logo-40.png
+0 5 0 10645 0 0
+/wp-admin/js/tags-suggest.min.js
+0 3 0 2892 0 0
+/wp-includes/js/dist/widgets.min.js
+0 3 0 20895 0 0
+/wp-admin/js/application-passwords.min.js
+0 2 0 1994 0 0
+/wp-includes/js/dist/is-shallow-equal.min.js
+0 3 0 1467 0 0
+/wp-includes/js/wp-embed.min.js
+0 4 0 2808 0 0
+/wp-includes/js/dist/autop.min.js
+0 3 0 6150 0 0
+/wp-content/uploads/2022/11/home-bg1-300x184.jpg
+0 1 34521024 14127 0 0
+/wp-content/plugins/backuply/assets/images/icon.svg
+0 3 0 61434 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 14 0 62459 0 0
+/wp-admin/js/postbox.min.js
+0 3 0 6159 0 0
+/wp-includes/js/wp-backbone.min.js
+0 4 0 4344 0 0
+/.well-known/pki-validation/2B173073217118B58C1D38E06F5AEC99.txt
+0 1 0 64 0 0
+/wp-includes/js/tinymce/skins/lightgray/content.min.css
+0 3 0 3486 0 0
+/wp-content/themes/twentytwentyone/screenshot.png
+0 3 0 848691 0 0
+/wp-content/plugins/backuply/assets/images/pagelayer_product.png
+0 1 0 3356 0 0
+/wp-includes/js/dist/element.min.js
+0 3 0 14115 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.js
+0 4 0 1568 0 0
+/wp-includes/js/dist/blob.min.js
+0 3 0 1341 0 0
+/wp-admin/js/color-picker.min.js
+0 3 0 3192 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 4 0 60952 0 0
+/xmlrpc.php
+0 7315 0 3007086 0 0
+/wp-json/wp/v2/widget-types
+0 5 0 4886 0 0
+/wp-includes/js/dist/preferences.min.js
+0 3 0 3600 0 0
+/wp-includes/js/quicktags.min.js
+0 3 0 9981 0 0
+/wp-includes/js/dist/dom-ready.min.js
+0 4 0 1124 0 0
+/wp-includes/js/hoverintent-js.min.js
+0 2 0 1330 0 0
+/wp-includes/js/dist/block-editor.min.js
+0 3 0 480057 0 0
+/wp-content/uploads/2022/11/otherpg-bg.jpg
+0 6 0 3161340 0 0
+/wp-includes/js/api-request.min.js
+0 4 0 2120 0 0
+/wp-includes/js/jquery/jquery.ui.touch-punch.js
+0 3 0 1527 0 0
+/wp-admin/images/wordpress-logo.svg
+0 4 0 3036 0 0
+/wp-content/plugins/popularfx-templates/images/pagelayer_product.png
+0 2 0 6712 0 0
+/wp-includes/js/dist/url.min.js
+0 4 0 13608 0 0
+/wp-admin/js/user-profile.min.js
+0 5 0 10560 0 0
+/wp-includes/js/autosave.min.js
+0 4 0 8620 0 0
+/wp-admin/js/media-upload.min.js
+0 3 0 1614 0 0
+/wp-includes/js/jquery/jquery.min.js
+0 16 0 459914 0 0
+/wp-content/plugins/pagelayer/images/default-image.png
+0 2 0 40376 0 0
+/wp-content/plugins/pagelayer/fonts/pagelayer.ttf
+0 2 0 41908 0 0
+/wp-admin/js/widgets/text-widgets.min.js
+0 3 0 5655 0 0
+/wp-content/uploads/2022/11/testimonial3-150x150.jpg
+0 1 34565392 5583 0 0
+/wp-content/plugins/backuply/assets/images/vultr.svg
+0 1 0 493 0 0
+/wp-includes/js/wplink.min.js
+0 3 0 11019 0 0
+/wp-includes/js/utils.min.js
+0 3 0 2268 0 0
+/
+0 192 0 4550195 133 48
+/wp-admin/nav-menus.php
+0 2 0 39202 0 0
+/wp-content/plugins/backuply/assets/images/digitalocean.svg
+0 1 0 271 0 0
+/wp-content/plugins/backuply/assets/css/styles.css
+0 1 0 2751 0 0
+/wp-admin/js/svg-painter.js
+0 2 0 3942 0 0
+/wp-includes/js/dist/deprecated.min.js
+0 4 0 1860 0 0
+/wp-admin/js/iris.min.js
+0 3 0 23172 0 0
+/wp-includes/js/mediaelement/renderers/vimeo.min.js
+0 2 8391443509326802035 4142 0 0
+/wp-content/themes/popularfx/screenshot.jpg
+0 3 0 841344 0 0
+/wp-json/wp/v2/taxonomies
+0 1 8315178135513821998 301 0 0
+/wp-includes/js/dist/block-library.min.js
+0 3 4120284817910726656 481754 0 0
+/wp-includes/js/codemirror/csslint.js
+0 3 6382382 192045 0 0
+/wp-admin/images/spinner-2x.gif
+0 4 7497262 30144 0 0
+/wp-content/uploads/2022/11/otherpg-bg-300x200.jpg
+0 1 34538160 22711 0 0
+/wp-admin/js/widgets/media-video-widget.min.js
+0 3 7885630523705224548 3168 0 0
+/wp-content/uploads/2022/11/counter-bg.jpg
+0 8 896 3703432 0 0
+/wp-content/uploads/2022/11/home-bg1.jpg
+0 13 7 8202090 0 0
+/wp-includes/js/dist/keyboard-shortcuts.min.js
+0 3 0 5163 0 0
+/wp-includes/js/codemirror/esprima.js
+0 3 0 125949 0 0
+/wp-includes/js/dist/compose.min.js
+0 3 0 34839 0 0
+/wp-admin/options-general.php
+0 6 0 107339 0 0
+/wp-includes/js/admin-bar.min.js
+0 2 0 2520 0 0
+/wp-includes/js/jquery/jquery.color.min.js
+0 4 1049073297331588826 11200 0 0
+/.well-known/pki-validation/7D6106E85B89C17519D66DB8E99C04F3.txt
+0 1 0 64 0 0
+/wp-includes/js/dist/shortcode.min.js
+0 3 0 4434 0 0
+/wp-admin/js/password-strength-meter.min.js
+0 5 0 2790 0 0
+/wp-includes/js/dist/escape-html.min.js
+0 3 0 1479 0 0
+/wp-json/wp/v2/categories
+0 1 0 254 0 0
+/wp-content/uploads/2022/11/testimonial2.jpg
+0 11 0 146377 0 0
+/wp-includes/css/media-views.min.css
+0 3 0 24687 0 0
+/wp-content/uploads/2022/12/20221027_181136.jpg
+0 2 34521136 1681908 0 0
+/wp-includes/js/plupload/moxie.min.js
+0 3 0 79398 0 0
+/wp-admin/edit-comments.php
+0 3 0 48128 0 0
+/wp-includes/js/jquery/ui/autocomplete.min.js
+0 2 0 5358 0 0
+/wp-includes/blocks/social-links/style.min.css
+0 1 0 1396 0 0
+/robots.txt
+0 3 0 337 0 0
+/wp-admin/js/nav-menu.min.js
+0 3 0 21189 0 0
+/wp-admin/profile.php
+0 1 34576080 13066 0 0
+/wp-includes/js/dist/rich-text.min.js
+0 3 0 30828 0 0
+/wp-content/plugins/backuply/assets/images/linode.svg
+0 1 0 1451 0 0
+/wp-content/uploads/2022/12/312936001_532512558687920_5430224880854401916_n-1-211x300.jpg
+0 1 34520688 9318 0 0
+/wp-admin/async-upload.php
+0 5 34566976 2953 0 0
+/wp-includes/js/codemirror/fakejshint.js
+0 3 0 1335 0 0
+/wp-content/plugins/backuply/assets/images/webdav.svg
+0 1 0 1102 0 0
+/wp-includes/js/plupload/wp-plupload.min.js
+0 4 0 8676 0 0
+/wp-admin/user-new.php
+0 2 0 20396 0 0
+/wp-content/uploads/2022/12/1-mieng.png
+0 1 0 13888 0 0
+/.well-known/pki-validation/6BC437C42C329C7830DE86751B75F681.txt
+0 1 0 64 0 0
+/wp-content/uploads/2022/12/IMG_8040.jpg
+0 2 34565696 365766 0 0
+/wp-content/uploads/2022/12/anhthe-1-210x300.jpg
+0 1 34543040 7093 0 0
+/wp-includes/js/customize-selective-refresh.min.js
+0 2 0 6966 0 0
+/wp-includes/images/uploader-icons-2x.png
+0 1 34566752 3542 0 0
+/wp-includes/js/mce-view.min.js
+0 3 0 10407 0 0
+/wp-content/plugins/popularfx-templates/images/facebook.png
+0 2 0 2608 0 0
+/wp-cron.php
+0 58 0 0 0 0
+/wp-admin/js/privacy-tools.min.js
+0 1 0 1533 0 0
+/wp-includes/js/jquery/ui/menu.min.js
+0 2 3257281418265770029 5762 0 0
+/wp-includes/js/dist/vendor/regenerator-runtime.min.js
+0 4 7239932725101688177 9416 0 0
+/wp-content/plugins/pagelayer/images/twitter.png
+0 2 7307218443138444656 2652 0 0
+/wp-includes/js/dist/primitives.min.js
+0 3 58433 2961 0 0
+/wp-includes/js/dist/dom.min.js
+0 3 0 13731 0 0
+/wp-includes/js/dist/reusable-blocks.min.js
+0 3 0 6375 0 0
+/wp-includes/js/dist/warning.min.js
+0 3 0 699 0 0
+/wp-content/themes/popularfx/images/popularfx-logo.png
+0 4 0 7408 0 0
+/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+0 7 0 16758 0 0
+/wp-includes/js/dist/server-side-render.min.js
+0 3 0 4419 0 0
+/wp-content/uploads/popularfx-templates/academy/style.css
+0 13 0 13139 0 0
+/wp-content/uploads/2022/11/header-bg-300x227.jpg
+0 1 34566176 25029 0 0
+/wp-includes/js/jquery/ui/checkboxradio.min.js
+0 1 0 1273 0 0
+/wp-admin/admin-ajax.php
+0 437 0 2726997 0 0
+/wp-includes/js/media-views.min.js
+0 4 0 99028 0 0
+/wp-content/plugins/pagelayer/js/givejs.php
+0 46 0 419510 0 0
+/wp-admin/js/image-edit.min.js
+0 3 0 10632 0 0
+/wp-includes/js/dist/customize-widgets.min.js
+0 3 0 32925 0 0
+/wp-content/plugins/pagelayer/fonts/fa-brands-400.woff2
+0 12 0 844096 0 0
+/wp-content/uploads/2022/12/312936001_532512558687920_5430224880854401916_n-1.jpg
+0 2 34573408 34694 0 0
+/wp-content/themes/twentytwentythree/screenshot.png
+0 3 0 285498 0 0
+/.well-known/pki-validation/45C4ECBE7B091B855C144616FBDD643D.txt
+0 1 1 64 0 0
+/wp-admin/js/code-editor.min.js
+0 3 0 3690 0 0
+/wp-content/uploads/2022/12/Anh-the-20-21-200x300.jpg
+0 1 34520800 7989 0 0
+/about/
+0 16 0 288629 1 0
+/wp-admin/customize.php
+0 6 0 1738851 0 0
+/wp-includes/js/dist/data.min.js
+0 3 0 23976 0 0
+/wp-includes/js/dist/core-data.min.js
+0 3 0 45093 0 0
+/wp-includes/css/dist/block-library/style.min.css
+0 10 0 107163 0 0
+/wp-content/plugins/popularfx-templates/images/loginizer-product.png
+0 2 0 13488 0 0
+/wp-content/plugins/pagelayer/fonts/fa-solid-900.woff2
+0 10 0 704412 0 0
+/wp-admin/images/about-header-about.svg
+0 2 0 1656 0 0
+# End Of Table - urls
+# -sites- (monthly)
+47.243.15.50
+0 1 1 17794 1 1669928036
+/
+180.163.220.68
+0 1 0 0 1 1670126610
+/
+107.152.162.110
+0 2 0 12116 0 0
+-
+95.164.156.17
+0 3 1 32095 1 1670184245
+/
+123.21.94.111
+0 17 10 1956530 1 1669929364
+/about/
+193.151.190.203
+0 1 0 0 1 1670025787
+/
+191.102.149.174
+0 1 0 0 1 1670159062
+/
+ec2-13-212-107-127.ap-southeast-1.compute.amazonaws.com
+0 1670 1664 7176437 1 1670011555
+/wp-json/wp/v2/users/
+ec2-3-22-248-100.us-east-2.compute.amazonaws.com
+0 21 19 1701731 1 1670047504
+/
+ec2-54-213-167-147.us-west-2.compute.amazonaws.com
+0 2 1 19978 1 1670190670
+/
+180.163.220.66
+0 19 19 1708184 1 1670126281
+/
+ec2-3-86-104-58.compute-1.amazonaws.com
+0 2 0 12117 0 0
+-
+205.185.116.25
+0 2 2 35214 0 0
+-
+193.34.74.137
+0 3 1 32095 1 1670159065
+/
+89.104.100.166
+0 2 1 19032 1 1669921705
+/
+198.235.24.173
+0 2 1 120786 1 1670078547
+/
+ec2-34-220-243-47.us-west-2.compute.amazonaws.com
+0 2 1 21216 1 1670190479
+/
+ec2-52-43-91-224.us-west-2.compute.amazonaws.com
+0 1 1 17794 1 1669930054
+/
+20.250.221.35.bc.googleusercontent.com
+0 20 20 1810130 1 1670033365
+/
+208.80.194.41
+0 2 1 109637 1 1669995256
+/
+167.99.72.125
+0 1 0 0 1 1669934009
+/
+ec2-34-241-15-237.eu-west-1.compute.amazonaws.com
+0 3 2 20089 1 1670147069
+/
+64.43.110.173
+0 1 1 20005 1 1670077217
+/
+95.164.156.171
+0 1 1 19978 1 1670159061
+/
+191.102.179.197
+0 1 1 17794 1 1670017178
+/
+205.169.39.158
+0 27 25 1789496 1 1670204551
+/
+cpanel.hassangul.com
+0 6 3 15210 1 1669942469
+/
+138.122.193.88
+0 1 1 17794 1 1670019935
+/
+fwdproxy-vll-004.fbsv.net
+0 2 1 2087 0 0
+-
+ec2-54-89-176-229.compute-1.amazonaws.com
+0 3 1 29959 1 1670017187
+/
+137.184.99.213
+0 4789 4786 20386635 1 1669886439
+/wp-json/wp/v2/users/
+209.141.49.169
+0 6 3 71293 3 1670101033
+/
+ec2-184-72-68-94.compute-1.amazonaws.com
+0 2 0 12165 0 0
+-
+ec2-52-207-209-31.compute-1.amazonaws.com
+0 3 1 32094 1 1670103748
+/
+209.141.35.128
+0 4 3 40414 3 1670184181
+/
+205.169.39.63
+0 5 4 56588 1 1670204572
+/
+193.34.72.231
+0 1 0 0 1 1670019937
+/
+smtpout104.joesnewfashion.com
+0 11 5 67607 4 1670184551
+/
+ec2-3-95-21-181.compute-1.amazonaws.com
+0 1 0 0 1 1670103746
+/
+64.43.116.29
+0 1 0 0 1 1670077218
+/
+47.242.41.190
+0 2 0 0 1 1669928039
+/
+ec2-54-191-62-50.us-west-2.compute.amazonaws.com
+0 2 0 2476 0 0
+-
+124.223.196.102
+0 1 0 0 1 1670216029
+/
+ec2-50-112-83-173.us-west-2.compute.amazonaws.com
+0 1 1 19978 1 1670190445
+/
+180.163.220.4
+0 19 19 1708184 1 1670126611
+/
+95.164.157.125
+0 1 0 0 1 1670071826
+/
+static.vnpt.vn
+0 705 594 16415865 2 1670230042
+/about/
+216.250.249.122
+0 2 1 19978 1 1670154144
+/
+42.117.43.195
+0 96 70 2594718 2 1669929806
+/service/
+balance.nici.io
+0 5 3 43836 3 1670130956
+/
+timoduizha.gq
+0 9 3 44220 5 1670142784
+/
+ec2-54-165-3-221.compute-1.amazonaws.com
+0 2 0 12165 0 0
+-
+188.166.233.21
+0 22 19 134107 1 1670202174
+/wp-json/wp/v2/users/
+absdb.arbmek.com
+0 1 0 10901 0 0
+-
+smtp290.rapidmms.com
+0 1 0 10901 0 0
+-
+fwdproxy-vll-003.fbsv.net
+0 3 1 2087 0 0
+-
+setfacl-title.rapidmms.com
+0 1 1 19978 1 1670184681
+/
+199.244.88.219
+0 1 1 19978 1 1670123018
+/
+209.141.55.120
+0 4 3 58987 3 1670200544
+/
+fwdproxy-vll-002.fbsv.net
+0 2 1 2087 0 0
+-
+191.102.174.210
+0 1 0 0 1 1670077219
+/
+ec2-52-43-246-95.us-west-2.compute.amazonaws.com
+0 2 0 1238 1 1670190727
+/
+190.123.209.248
+0 2 0 12166 0 0
+-
+host15-112-61-217.static.arubacloud.com
+0 836 833 444683 1 1669862982
+/wp-json/wp/v2/users/
+27.74.254.72
+0 1 0 0 0 0
+-
+209.141.33.65
+0 10 7 144643 6 1670191367
+/
+64.43.108.174
+0 1 0 0 1 1670159064
+/
+209.141.36.112
+0 14 6 105606 7 1670200822
+/
+95.164.156.174
+0 1 1 0 1 1670017183
+/
+205.185.116.89
+0 7 2 41485 4 1670124868
+/
+204.163.36.59.broad.dg.gd.dynamic.163data.com.cn
+0 2 1 19978 1 1670162814
+/
+ec2-54-87-3-208.compute-1.amazonaws.com
+0 2 0 12117 0 0
+-
+23.111.114.116
+0 4 2 35198 1 1669853710
+/
+fwdproxy-vll-015.fbsv.net
+0 2 1 2087 0 0
+-
+dynamic-adsl.viettel.vn
+0 31 28 640415 1 1670228392
+/wp-admin/
+djgpp-bland-mail.quiethyde.com
+0 1 1 111 0 0
+-
+104.144.151.213
+0 3 1 32170 1 1670077221
+/
+al121.albit.dedi.server-hosting.expert
+0 5 2 151834 2 1669943711
+/2022/11/30/hello-world/
+184.94.240.88
+0 2 1 120772 1 1670177312
+/
+199.244.88.227
+0 1 0 0 1 1670123016
+/
+planetlab24.gino-research.net.in.tum.de
+0 1 1 115 0 0
+-
+95.177.174.212
+0 5 1 109637 1 1670007439
+/
+dynamic-ip-adsl.viettel.vn
+0 592 484 9793273 3 1670065694
+/
+64.43.116.10
+0 2 0 0 1 1670103742
+/
+27.115.124.109
+0 19 19 1708184 1 1670126613
+/
+115.73.214.48
+0 12 6 114287 1 1670227823
+/about/
+static.cmcti.vn
+0 66 46 2970771 1 1670078827
+/wp-admin/
+45.90.60.253
+0 2 1 21216 1 1670105908
+/
+142.93.177.156
+0 1 0 0 1 1670025503
+/
+frantech.us.xdhcp.net
+0 8 3 74790 4 1670136856
+/
+mout8.funromanceonline.com
+0 2 0 12165 0 0
+-
+ec2-44-211-41-199.compute-1.amazonaws.com
+0 3 1 30009 1 1670019940
+/
+topological-up.rapidmms.com
+0 1 0 0 1 1670184679
+/
+uslv-1.easyinfinite.com
+0 9 4 70949 3 1670188627
+/
+cache.google.com
+0 17 16 106496 0 0
+-
+89.104.100.249
+0 2 1 21216 1 1670191014
+/
+9a3b533b-0720-4f94-857e-b860406c8261.fr-par-2.baremetal.scw.cloud
+0 2 1 122024 1 1670077926
+/
+170.254.178.130
+0 2 2 19978 1 1670184243
+/
+ec2-34-207-194-89.compute-1.amazonaws.com
+0 14 0 85012 0 0
+-
+125.235.188.189.adsl.viettel.vn
+0 299 276 5798476 1 1669900618
+/
+47.242.182.173
+0 1 0 0 1 1669928030
+/
+198.20.189.111
+0 1 1 20005 1 1670071825
+/
+185.50.251.190
+0 1 1 17794 1 1670025790
+/
+host139.vietnix.vn
+0 80 80 222730 8 1670216030
+/
+ec2-44-211-128-249.compute-1.amazonaws.com
+0 1 0 0 1 1670019939
+/
+193.34.75.108
+0 3 1 32170 1 1670071832
+/
+195.189.99.208
+0 1 0 1229 0 0
+-
+vps-a083d544.vps.ovh.ca
+0 2 1 2087 0 0
+-
+180.163.220.3
+0 1 0 0 1 1670126280
+/
+20.108.52.245
+0 8207 8203 31536573 1 1670217529
+/wp-json/wp/v2/users/
+longkai56.cn
+0 7 3 55237 3 1670101784
+/
+ec2-35-90-52-181.us-west-2.compute.amazonaws.com
+0 20 19 1702257 1 1670085106
+/
+mx85.bigkingdeals.com
+0 1 0 0 1 1670071830
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+205.169.39.158
+0 27 25 1789496 1 1670204551
+/
+fwdproxy-vll-004.fbsv.net
+0 2 1 2087 0 0
+-
+205.169.39.63
+0 2 1 19978 1 1670204572
+/
+124.223.196.102
+0 1 0 0 1 1670216029
+/
+static.vnpt.vn
+0 540 443 13685187 1 1670230042
+/about/
+188.166.233.21
+0 22 19 134107 1 1670202174
+/wp-json/wp/v2/users/
+fwdproxy-vll-003.fbsv.net
+0 3 1 2087 0 0
+-
+209.141.55.120
+0 2 1 21216 1 1670200544
+/
+fwdproxy-vll-002.fbsv.net
+0 2 1 2087 0 0
+-
+209.141.36.112
+0 2 1 21216 1 1670200822
+/
+fwdproxy-vll-015.fbsv.net
+0 2 1 2087 0 0
+-
+dynamic-adsl.viettel.vn
+0 31 28 640415 1 1670228392
+/wp-admin/
+115.73.214.48
+0 12 6 114287 1 1670227823
+/about/
+host139.vietnix.vn
+0 9 9 20106 1 1670216030
+/
+vps-a083d544.vps.ovh.ca
+0 2 1 2087 0 0
+-
+20.108.52.245
+0 8207 8203 31536573 1 1670217529
+/wp-json/wp/v2/users/
+# End Of Table - sites (daily)
+# -referrers- 
+https://1mieng.website/wp-content/plugins/pagelayer/css/givecss.php
+0 24
+http://1mieng.website/wp-login.php
+0 1
+https://1mieng.website/contact/
+0 1
+https://1mieng.website/wp-admin/options-permalink.php
+0 1
+https://1mieng.website/wp-cron.php
+0 28
+https://l.messenger.com/
+0 2
+https://1mieng.website/wp-admin/options-reading.php
+0 1
+https://1mieng.website/wp-admin/plugins.php
+0 4
+http://1mieng.website/
+0 29
+https://1mieng.website/wp-admin/users.php
+0 4
+https://1mieng.website/2022/11/30/hello-world/
+0 3
+https://1mieng.website/wp-admin/customize.php
+0 304
+https://1mieng.website/wp-admin/nav-menus.php
+0 4
+http://baidu.com/
+0 5
+https://1mieng.website/wp-admin/options-writing.php
+0 1
+http://1mieng.website/about/
+0 19
+https://www.google.com/
+0 2
+- (Direct Request)
+0 7622
+https://1mieng.website/
+0 709
+https://1mieng.website/wp-admin/themes.php
+0 22
+https://1mieng.website/wp-admin/profile.php
+0 7
+https://1mieng.website/wp-admin/user-new.php
+0 8
+https://1mieng.website/wp-admin/about.php
+0 8
+https://1mieng.website/wp-admin/tools.php
+0 1
+http://103.200.23.139:80/
+0 1
+https://1mieng.website/wp-admin/load-styles.php
+0 5
+http://1mieng.website///
+0 1
+https://1mieng.website/wp-admin/post-new.php
+0 60
+https://host139.vietnix.vn:2083/
+0 6
+https://1mieng.website/wp-admin/options-privacy.php
+0 2
+https://1mieng.website/wp-admin/plugin-editor.php
+0 6
+http://1mieng.website
+0 18
+www.google.com
+0 2
+https://1mieng.website/wp-admin/css/login.min.css
+0 4
+https://1mieng.website/wp-admin/update-core.php
+0 2
+http://1mieng.website/wp-content/plugins/pagelayer/css/givecss.php
+0 3
+https://1mieng.website/about/
+0 120
+https://1mieng.website/wp-includes/css/media-views.min.css
+0 2
+https://1mieng.website/service/
+0 3
+https://1mieng.website/wp-admin/admin.php
+0 95
+https://1mieng.website/wp-admin/post.php
+0 158
+https://1mieng.website/wp-login.php
+0 82
+https://1mieng.website/blog/
+0 8
+https://1mieng.website/wp-admin/
+0 84
+https://1mieng.website//wp-login.php
+0 8171
+https://1mieng.website/wp-admin/edit-comments.php
+0 7
+https://1mieng.website/wp-admin/user-edit.php
+0 8
+https://1mieng.website/wp-admin/edit.php
+0 124
+http://1mieng.website/wp-cron.php
+0 30
+https://1mieng.website/wp-admin/options-general.php
+0 10
+https://1mieng.website/wp-admin/index.php
+0 14
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 4811
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+0 2
+Java/11.0.16
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50728)
+0 2
+WordPress/6.1.1; https://1mieng.website
+0 70
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 20
+COMODO DCV
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.87 Safari/537.36
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+0 62
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+0 17
+python-requests/2.28.1
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36
+0 9875
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) _zbot
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 
+0 5
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 1
+python-requests/2.22.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 20
+Apache-HttpClient/5.1.3 (Java/11.0.17)
+0 6
+curl/7.58.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 568
+Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.141
+0 880
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 836
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Saf
+0 1
+Mozilla/5.0 (Linux; Android 9; BDL8051C Build/BDL3552T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.33
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0
+0 2
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/104.0.5112.101 Safari/537.36
+0 19
+Pandalytics/1.0 (https://domainsbot.com/pandalytics/)
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+0 76
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+0 371
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 8.0.0; MHA-AL00 Build/HUAWEIMHA-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chro
+0 59
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
